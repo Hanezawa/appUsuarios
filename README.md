@@ -32,3 +32,5 @@ nodemon
 Para correr el servidor y probar el funcionamiento de la API se puede hacer con el siguiente comando: npm run dev y mandar solicitudes HTTPS con POSTMAN o API TESTER para comprobar el funcionamiento.
 
 Para correr la vista del front conectada con el back se puede hacer con el comando: npm run serve para correr en un entorno local el proyecto con Vue y al darle login se abre el dashboard
+
+En el formulario registro hay un pequeño error al mandar los datos a la API.
